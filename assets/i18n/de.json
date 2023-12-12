@@ -1,0 +1,26 @@
+{
+  "title": "Triathlon-Rechner",
+  "text": "Nutze diesen Triathlon-Renchner, um deine gewünschte Zielzeit oder Race-Pace zu ermittlen",
+  "stage": "Schritt",
+  "distance": {
+    "description": "Renndistanz auswählen",
+    "sprint": "Sprint",
+    "olympic": "Olympisch",
+    "half": "Half Ironman",
+    "full": "Voll",
+    "ironman": "Ironman",
+    "swim": "Schwimmen",
+    "bike": "Radfahren",
+    "run": "Laufen"
+  },
+  "time" : {
+    "description1": "Geplante Wettkampfzeit",
+    "or": "oder",
+    "description2": "Race-Pace",
+    "time": "Zeit",
+    "pace": "Tempo"
+  },
+  "result": {
+    "description": "Deine Wettkampfzeit beträgt:"
+  }
+}
